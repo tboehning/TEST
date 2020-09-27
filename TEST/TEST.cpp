@@ -7,4 +7,6 @@ int main()
     MyClass mc;
 
     std::cout << mc.value;
+
+    std::cout << "BRANCH TEST";
 }
