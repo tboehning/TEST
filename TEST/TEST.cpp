@@ -9,4 +9,5 @@ int main()
     std::cout << mc.value;
 
     std::cout << "BRANCH TEST";
+    std::cout << "BRANCH TEST NEW";
 }
