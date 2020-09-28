@@ -7,6 +7,8 @@ public:
 	int value;
 
 	MyClass();
+
+	int return_ten();
 };
 
 #endif
